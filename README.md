@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @KOdoi-OJ
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning R and Python
-- 💞️ As a way to practice skills on Excel, SQL, and Tableau, I’m looking to collaborate on Data Analytics and Data Science projects which may use those skills
-- 📫 You can reach me on: 
+- 💞️ I’m looking to collaborate on Data Analytics and Data Science projects that will put my Excel, SQL, and Tableau skills to use
+- 📫 Connect with me on: 
 [Twitter](https://twitter.com/kwameoo_)
 [LinkedIn](https://www.linkedin.com/in/kwame-odoi-otchere)
+[Kaggle](https://www.kaggle.com/kwameodoiotchere)
 
 <!---
 KOdoi-OJ/KOdoi-OJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
