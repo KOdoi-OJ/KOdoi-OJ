@@ -5,7 +5,6 @@
 - 📫 You can reach me on: 
 [Twitter](https://twitter.com/kwameoo_)
 [LinkedIn](https://www.linkedin.com/in/kwame-odoi-otchere)
-[Email](kodoi270@gmail.com)
 
 <!---
 KOdoi-OJ/KOdoi-OJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
