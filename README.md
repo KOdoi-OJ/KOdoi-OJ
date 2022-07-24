@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KOdoi-OJ
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning R (with Python in view)
-- 💞️ I’m looking to collaborate on Data Analytics and Data Science projects that will put my Excel, SQL, and Tableau skills to use
+- 💞️ I’m looking to collaborate on Data Analytics and Data Science projects that will put my Excel, SQL, and [Tableau](https://public.tableau.com/app/profile/kwame.odoi.otchere#!/) skills to use
 - 📫 Connect with me on: 
 [Twitter](https://twitter.com/kwameoo_)
 [LinkedIn](https://www.linkedin.com/in/kwame-odoi-otchere)
