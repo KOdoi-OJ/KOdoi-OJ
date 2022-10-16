@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KOdoi-OJ
+- 👋 Hi, I’m Kwame Otchere
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
