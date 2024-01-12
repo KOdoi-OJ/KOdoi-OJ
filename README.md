@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kwame Otchere
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
+- 👋 Hi, I’m Kwame
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I work with SQL, R and Python
+- 💞️ I’m looking to collaborate on open-source Data Science and Machine Learning projects
 - 📫 Connect with me on: 
 [Twitter](https://twitter.com/kwameoo_)
 [LinkedIn](https://www.linkedin.com/in/kwame-odoi-otchere)
